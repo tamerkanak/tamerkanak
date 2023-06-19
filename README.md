@@ -4,7 +4,7 @@
 
 - 🎓 &nbsp; I'm studying **Computer Engineering** at ADÜ.
 - 🤔 &nbsp; I really like and eager to exploring new technologies.
-- 🌱 &nbsp; I’m currently working on **Web Development**
+- 🌱 &nbsp; I’m currently working on **Machine Learning**
 
 ## 🤝🏻 &nbsp;Connect with Me
 
