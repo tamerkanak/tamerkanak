@@ -26,6 +26,8 @@
 <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/valohai/ml-logos/master/keras.svg" alt="keras" width="40" height="40"/> </a>
 <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/valohai/ml-logos/master/pandas.svg" alt="pandas" width="40" height="40"/> </a>
 <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://avatars.githubusercontent.com/u/365630?s=200&v=4" alt="sci-kit learn" width="40" height="40"/> </a>
+<a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/valohai/ml-logos/master/tensorflow-tf.svg" alt="tensorflow" width="40" height="40"/> </a>
+<a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/valohai/ml-logos/master/matplotlib.svg" alt="matplotlib" width="40" height="40"/> </a>
 
 </p>
 
