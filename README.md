@@ -2,7 +2,7 @@
 
 ## 👨‍💻: &nbsp; About me
 
-- 🎓 &nbsp; I'm studying **Computer Engineering** at ADÜ.
+- 🎓 &nbsp; I graduated from Adnan Menderes University **Computer Engineering** department as **High Honor Student**.
 - 🤔 &nbsp; I really like and eager to exploring new technologies.
 - 🌱 &nbsp; I'm currently working on **Machine Learning**, **Data Science**, and **AI/ML Engineering**.
 - 🚀 &nbsp; Passionate about **Large Language Models (LLMs)**, **RAG (Retrieval-Augmented Generation)**, **Generative AI**, and **Fine-tuning**.
